@@ -1,0 +1,4 @@
+CREATE TABLE accounti(
+	account_num INT UNSIGNED NOT NULL PRIMARY KEY,
+	acc_owner VARCHAR(50) NOT NULL ,
+	date_opened DATETIME NOT NULL );

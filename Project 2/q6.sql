@@ -1,0 +1,1 @@
+INSERT INTO types VALUES(1,'Adjustment')

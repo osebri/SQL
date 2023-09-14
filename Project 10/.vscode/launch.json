@@ -1,0 +1,39 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AdjustPrice",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/ASUS/OneDrive/Documents/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "AdjustPrice",
+            "projectName": "asst10_d9f58a43"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/ASUS/OneDrive/Documents/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/ASUS/OneDrive/Documents/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "asst10_d9f58a43"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayMenu",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/ASUS/OneDrive/Documents/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "DisplayMenu",
+            "projectName": "asst10_d9f58a43"
+        }
+    ]
+}

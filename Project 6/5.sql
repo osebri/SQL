@@ -1,0 +1,1 @@
+SELECT serial_number NUMBER FROM truck ;
